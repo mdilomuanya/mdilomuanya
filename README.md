@@ -1,8 +1,8 @@
-👋 Welcome to My GitHub Profile!
+👋 **Welcome to My GitHub Profile!**
 
 Hi, I'm MD, a data analyst and researcher with experience in data analysis, querying, machine learning, and reporting. I enjoy turning complex datasets into clear insights that drive decisions and tell compelling stories.
 
-🔍 What I Do
+🔍 **What I Do**
 - Analyze and wrangle data using SQL and Python
 
 - Build automated reports and perform advanced analytics using Python, SQL, and Excel
@@ -11,11 +11,11 @@ Hi, I'm MD, a data analyst and researcher with experience in data analysis, quer
 
 - Work across the full data pipeline—from collection and cleaning to modeling and visualization
 
-📚 Projects
+📚 **Projects**
 
 Explore my portfolio of real-world projects showcasing end-to-end data workflows, from API integration and data cleaning to SQL querying and dashboard development.
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 - Languages: SQL, Python, R
 
 - Databases: MySQL
