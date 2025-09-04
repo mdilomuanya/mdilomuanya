@@ -36,4 +36,4 @@ Explore my portfolio of real-world projects showcasing end-to-end data workflows
 
 ---
 
-## 🤝 Connect with Me on [LinkedIn]([url](https://www.linkedin.com/in/matthew-david-ilomuanya-2498101a5/))!!
+## 🤝 Connect with Me on [LinkedIn](https://www.linkedin.com/in/matthew-david-ilomuanya-2498101a5/) !!
