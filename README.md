@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile! 
-![Portfolio Banner](assets/portfolio_banner.png)
+![Portfolio Banner](assets/LinkedIn Banner copy.png)
 Hi, I'm MD, a data analyst and researcher with experience in data analysis, querying, machine learning, and reporting. I enjoy turning complex datasets into clear insights that drive decisions and tell compelling stories.
 
 ## 🔍 What I Do
