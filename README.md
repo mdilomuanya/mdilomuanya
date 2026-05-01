@@ -7,7 +7,7 @@ Hi, I'm MD, a data analyst and researcher with experience in data analysis, quer
 
 - Build automated reports and perform advanced analytics using Python, SQL, and Excel
   
-- Develop interactive dashboards and visualizations with Tableau
+- Develop interactive dashboards and visualizations with Tableau and Power BI
 
 - Work across the full data pipeline—from collection and cleaning to modeling and visualization
 
@@ -28,7 +28,7 @@ Explore my portfolio of real-world projects showcasing end-to-end data workflows
 
 - Data Tools: Excel, pandas, NumPy
   
-- Visualization: Tableau, matplotlib, seaborn
+- Visualization: Tableau, Power BI, matplotlib, seaborn
 
 - Machine Learning: scikit-learn, statsmodels, causal inference (RCT, IV, RDD), contextual bandits
 
